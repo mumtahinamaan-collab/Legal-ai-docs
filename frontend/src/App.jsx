@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import UploadBox from "./components/UploadBox";
 import FeatureCard from "./components/FeatureCard";
-import DocumentHeader from "./components/DocumentHeader";
+import DocumentHeader from "./components/Documentheader";
 import SummaryCard from "./components/SummaryCard";
 import KeyInformation from "./components/KeyInformation";
 import RiskClauses from "./components/RiskClauses";
